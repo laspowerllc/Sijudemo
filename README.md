@@ -1,4 +1,4 @@
-# Siju
+# Siju.
 
 Plataforma para entrenadores online: clientes, planes de entrenamiento, dietas,
 check-ins, progreso, chat y cobros.
